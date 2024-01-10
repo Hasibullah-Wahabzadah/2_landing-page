@@ -1,0 +1,8 @@
+.server .icon{
+    @include gradient;
+    font-size: 3rem;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}

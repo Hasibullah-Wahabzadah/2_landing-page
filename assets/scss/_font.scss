@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Vazir;
+    src: url(../../font/Vazir.eot);
+    src: url(../../font/Vazir.eot) format("embedded-opentype")
+    ,url(../../font/Vazir.woff2) format("woff2"),
+    url(../../font/Vazir.woff) format("woff"),
+    url(../../font/Vazir.ttf) format("truetype");
+}
+
+body{
+    font-family: "Vazir" !important;
+}
+

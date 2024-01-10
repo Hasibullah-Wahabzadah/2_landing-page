@@ -1,0 +1,18 @@
+// $primary:#fe8c00;
+// $secondary:#f83600;
+$primary:#f83600;
+$secondary:#fe8c00;  
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import'./components/mixins';  
+@import'./components/buttoms';  
+@import'./components/heading-line';   
+@import './font';
+@import './navbar';
+@import'./intro';
+@import'./server'; 
+@import'./comment';  
+@import'./FAQ';  
+@import'./portfolio';
+@import'./footer'; 
